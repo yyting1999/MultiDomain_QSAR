@@ -20,4 +20,4 @@ Among these, *S5_MLP_train_model.py* is the core script for Domain-Cross Multi-L
  
 To reproduce this study, run the scripts in the order of S1-S9 and save the intermediate files, and pay attention to modifying the file path before running the scripts. 
 
-The manuscript is under review. The full data files and code files will be released upon publication.
+The manuscript is under review. This repository contains a limited version of the code and data for peer review purposes. The full data files and code files will be released upon publication.
