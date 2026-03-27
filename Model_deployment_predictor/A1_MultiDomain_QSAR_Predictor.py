@@ -410,7 +410,7 @@ class MultiDomainQSARPredictor:
                 error_msg += "1. Ensure input file contains all required feature columns\n"
                 error_msg += "2. If a feature has no value, keep the column name and set value to NaN\n"
                 error_msg += "3. System will automatically fill NaN values using KNN method\n"
-                error_msg += f"\nComplete feature list saved in: {self.model_dir}/required_features_list.txt"
+                error_msg += f"\nComplete feature list saved in: model_required_features.csv"
                 
                 self.logger.error(error_msg)
                 raise ValueError(f"Input data missing {len(missing_features)} required feature columns")
