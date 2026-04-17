@@ -1,5 +1,5 @@
 # Complete Research Reproduction Guide
-The repository contains the data files and code files needed to reach the conclusions in the article “Mechanistic Prediction and High-Throughput Risk Screening of Aquatic Contaminants Using *Daphnia magna* AOP Network”.
+The repository contains the data files and code files needed to reach the conclusions in the article “High-Throughput Risk Screening of Aquatic Contaminants Using AOP Network”.
 
 ### The data files consist of 2 pieces:
 - **allDescriptors.csv:** Feature matrix obtained after molecular structure optimization and descriptors calculation for all chemicals (6,971 chemicals ×10,024 structure descriptors).
